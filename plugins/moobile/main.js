@@ -17,7 +17,7 @@ define(templates, function (theme, loginForm, program) {
         },
 
         routes: [
-            ["Moobile", "show_program", "showProgram"]
+            ["moobile", "show_program", "showProgram"]
         ],
 
         showProgram: function() {

@@ -10,7 +10,7 @@ define(templates, function (theme, loginForm, program) {
             name: "moobile",
             type: "general",
             menuURL: "#moobile",
-            icon: "plugins/events/icon.png",
+            icon: "plugins/moobile/icon.png",
             lang: {
                 component: "core"
             }

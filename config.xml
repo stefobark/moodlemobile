@@ -3,12 +3,12 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "moobile"
-        versionCode = "0001"
-        version   = "0.0001">
+        versionCode = "0002"
+        version   = "0.0002">
     <name>Moobile</name>
 
     <description>
-        Moobile
+        Moobile: Moodle Mobile Quizzes
     </description>
 
     <author href="http://webbarker.biz" email="steven.j.barker.jr@gmail.com">
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>0.0001</string>
+        <string>0.0002</string>
     </gap:config-file>
 
     <preference name="android-minSdkVersion" value="5" />
